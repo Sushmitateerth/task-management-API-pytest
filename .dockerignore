@@ -1,0 +1,7 @@
+venv
+.idea
+.DS_Store
+.gitignore
+.pytest_cache
+Makefile
+README.md
